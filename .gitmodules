@@ -4,3 +4,6 @@
 [submodule "MentalChat16K_Main"]
 	path = MentalChat16K_Main
 	url = https://github.com/ChiaPatricia/MentalChat16K_Main.git
+[submodule "MentalChat16K_Synthetic_Data_Generation"]
+	path = MentalChat16K_Synthetic_Data_Generation
+	url = https://github.com/ChiaPatricia/MentalChat16K_Synthetic_Data_Generation.git
