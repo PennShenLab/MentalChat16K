@@ -1,3 +1,6 @@
 [submodule "FastChat"]
 	path = FastChat
 	url = https://github.com/ChiaPatricia/FastChat.git
+[submodule "MentalChat16K_Main"]
+	path = MentalChat16K_Main
+	url = https://github.com/ChiaPatricia/MentalChat16K_Main.git
