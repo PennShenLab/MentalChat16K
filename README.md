@@ -45,7 +45,7 @@ MentalChat16K is available for download at [Hugging Face Datasets](https://huggi
 ## 📚 Citation
 If you use MentalChat16K in your research, please cite the dataset as follows:
 ```
-@dataset{MentalChat16K,
+@article{MentalChat16K,
   author    = {Jia Xu, Tianyi Wei, Bojian Hou, Patryk Orzechowski, Shu Yang, Ruochen Jin, Rachael Paulbeck, Joost Wagenaar, George Demiris, Li Shen},
   title     = {MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance},
   year      = {2024},
